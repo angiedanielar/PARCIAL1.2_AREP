@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mycompany.app</groupId>
-  <artifactId>parcial</artifactId>
+  <artifactId>facade</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>parcial</name>
+  <name>facade</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -50,6 +50,16 @@
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-javadoc-plugin</artifactId>
       <version>3.2.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.json</groupId>
+      <artifactId>json</artifactId>
+      <version>20160212</version>
+    </dependency>
+    <dependency>
+      <groupId>com.mashape.unirest</groupId>
+      <artifactId>unirest-java</artifactId>
+      <version>1.4.9</version>
     </dependency>
 
   </dependencies>
