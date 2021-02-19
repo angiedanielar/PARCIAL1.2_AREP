@@ -52,10 +52,10 @@ mvn exec:java -D "exec.mainClass"="com.mycompany.app.App"
 And put this link in your browser: http://localhost:4567
 ```
 
-- [Link to the deploy]()
+- [Link to the deploy](https://arepexam.herokuapp.com/)
 
 
-Example to use: 
+Example to use: https://arepexam.herokuapp.com/calculator/calculate?number=1&operation=cos
 
 
 4. Generating the documentation:
